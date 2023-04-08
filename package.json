@@ -1,6 +1,7 @@
 {
   "name": "suika-router",
   "version": "1.0.0",
+  "description": "Suika Router is a lightweight routing library for the Suika framework",
   "homepage": "https://jonwatkins.github.io/suika-router/",
   "author": "Jon Watkins",
   "license": "MIT",
