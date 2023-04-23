@@ -1,4 +1,6 @@
-# Suika Router ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/JonWatkins/suika-router/main.yml) ![npm](https://img.shields.io/npm/v/suika-router) ![GitHub](https://img.shields.io/github/license/JonWatkins/suika-router) [![codecov](https://codecov.io/gh/JonWatkins/suika-router/branch/main/graph/badge.svg?token=CZ8QB5X8S5)](https://codecov.io/gh/JonWatkins/suika-router)
+# This repo is no loonger maintained, the npm package is still available but now uses the monorepo for Suika instead.
+
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/JonWatkins/suika-router/main.yml) ![npm](https://img.shields.io/npm/v/suika-router) ![GitHub](https://img.shields.io/github/license/JonWatkins/suika-router) [![codecov](https://codecov.io/gh/JonWatkins/suika-router/branch/main/graph/badge.svg?token=CZ8QB5X8S5)](https://codecov.io/gh/JonWatkins/suika-router)
 
 Suika Router (WIP) is a lightweight routing library for the Suika framework.
 
